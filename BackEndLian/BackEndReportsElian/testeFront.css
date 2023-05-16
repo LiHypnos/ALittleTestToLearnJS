@@ -1,0 +1,59 @@
+#bx {
+  background-color: rgb(200, 248, 236);
+}
+#b1 {
+  color: rgb(14, 4, 31);
+  background-color: transparent;
+  height: 2rem;
+  width: 5rem;
+  left: 3.6rem;
+  position: absolute;
+  z-index: 1;
+  border: none;
+  cursor: pointer;
+  font-size: 22px;
+  align-items: center;
+}
+#quadrado {
+  background: rgb(111, 248, 180);
+  height: 1rem;
+  width: 8rem;
+  top: 7.4rem;
+  position: absolute;
+  z-index: 0;
+  left: 3rem;
+  align-items: center;
+}
+#b2 {
+  color: rgb(14, 4, 31);
+  background-color: transparent;
+  height: 2rem;
+  width: 5rem;
+  left: 2.9rem;
+  position: relative;
+  z-index: 1;
+  border: none;
+  cursor: pointer;
+  font-size: 22px;
+  align-items: center;
+}
+#quadrado2 {
+  background: rgb(111, 248, 180);
+  height: 1rem;
+  width: 8rem;
+  top: 15.3rem;
+  position: absolute;
+  z-index: 0;
+  left: 2.9rem;
+  align-items: center;
+}
+#Login {
+  position: relative;
+  left: 4rem;
+  color: rgb(61, 47, 255);
+}
+#Cadastro {
+  color: rgb(61, 47, 255);
+  position: relative;
+  left: 2rem;
+}

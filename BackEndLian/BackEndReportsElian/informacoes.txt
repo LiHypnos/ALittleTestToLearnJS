@@ -1,0 +1,5 @@
+Adicionar a implementação no menu;
+adicionar a listagem para edit de user;
+adicionar a listagem para delete user;
+Adicionar a implementação no banco de dados;
+Xtirar o cancelamento de compra, já que, a quantidade de itens não voltam :c ;
